@@ -20,7 +20,7 @@
 <p>Gomez Garcia Andres Noe</p><!--Muestra en pantalla el cuerpo de la pagina En este caso mi nombre-->
 
 
-<p1>23,308,051,281,184</p1><!--Muestra en pantalla el numero de control-->
+<p1>23308051281184</p1><!--Muestra en pantalla el numero de control-->
 
 <br><!--Deja un espacio entre renglones-->
 
@@ -33,7 +33,8 @@
 
 </html>
 
-![image](https://github.com/user-attachments/assets/83787806-4feb-4c7d-a1aa-544379e81860)
+![image](https://github.com/user-attachments/assets/7420e3fc-00d4-442d-b8eb-82837bc9c538)
+
 
 ![image](https://github.com/user-attachments/assets/d24105ba-89a1-42da-9a3e-d80a4931715c)
 
